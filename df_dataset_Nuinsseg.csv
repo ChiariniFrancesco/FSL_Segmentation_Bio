@@ -1,0 +1,2 @@
+num_images,num_masks,mean_nuclei_per_image,mean_density,R_mean_dataset,G_mean_dataset,B_mean_dataset
+432,432,46.004629629629626,0.000175493734854239,110.19952017151617,70.89540886967455,100.30802895924725
