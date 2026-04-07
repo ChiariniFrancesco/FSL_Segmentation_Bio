@@ -1,0 +1,2 @@
+num_images,num_labels,mean_nuclei_per_image,mean_density,R_mean_dataset,G_mean_dataset,B_mean_dataset
+238,238,1814.7605042016808,0.0017843468413947905,194.66527168422098,150.38474240878298,201.03208660896857
